@@ -1,0 +1,10 @@
+cache_size: 100
+chunk_size: 500
+compression_ratio: 4.0
+enable_gpu: true
+enable_quality_checks: true
+max_retries: 3
+max_workers: 4
+normalize_audio: true
+quality_threshold: 0.7
+voice_speed: 1.0
